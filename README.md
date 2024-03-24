@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>ASP.NET MVC projects</b>
+  - [SkillExpose](https://github.com/PowerPigeon26/SkillExpose)
+  - [ASP.NET MVC Bestbuy](https://github.com/PowerPigeon26/ASPNET)
+
+- <b>Projects centered on API use</b>
+  - [KanyeAndRon](https://github.com/PowerPigeon26/KanyeAndRon2)
+  - [PokeAPI](https://github.com/PowerPigeon26/pokeAPI)
 
 <h2> 🤳 Connect with me:</h2>
 
