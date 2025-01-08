@@ -12,5 +12,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-maverick72032@gmail.com </br>
+MaverickLG100@gmail.com </br>
 [LinkedIn](https://github.com/joshmadakor1/Algorithms-Practice](https://www.linkedin.com/in/maverick-grayer-34aa73165/)https://www.linkedin.com/in/maverick-grayer-34aa73165/)
